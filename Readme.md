@@ -11,6 +11,11 @@ history: true
 navigation: false
 controls: 0
 ---
+
+[![hello-rust.show](images/hellorust.svg)](https://hello-rust.show/)
+
+- - -
+
 # Hi, I'm Pascal Hertleif
 
 - Senior dev here at TTC
@@ -23,7 +28,7 @@ controls: 0
 
 - - -
 
-# Random, interesting things
+# Random, maybe interesting things
 
 > - [rust-analyzer](https://github.com/rust-analyzer/rust-analyzer)
 > - `cargo install flamegraph`
